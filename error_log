@@ -1,0 +1,2 @@
+[27-Jun-2014 19:20:08 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bvtyslko/public_html/colegio/application/controllers/maestro/alumno.php on line 17
+[27-Jun-2014 19:20:25 America/New_York] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/bvtyslko/public_html/colegio/application/controllers/maestro/alumno.php on line 17
